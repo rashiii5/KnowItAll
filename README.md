@@ -1,6 +1,6 @@
 # KnowItAll
 
-IMPORTANT: After downloading, put all the html files in a folder called 'tepleates'
+IMPORTANT: After downloading, put all the html files in a folder called 'templates'
 
 ## ABSTRACT
 The "KnowItAll: Custom Quiz and Flashcard Creator" project introduces a web application designed for educational use, allowing users to create, manage, and utilize personalized quizzes and flashcards. The platform supports two main user roles: teachers and students, each with tailored functionalities.
